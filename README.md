@@ -1,5 +1,7 @@
 # visualg
 Criando comandos de verificação no VisualG (par/impar, positivo/negativo ou calcular a raiz quadrada)
+
+
 Algoritmo "Verificação Caso2"
 
 Var
